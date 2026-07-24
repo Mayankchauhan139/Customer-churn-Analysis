@@ -85,7 +85,7 @@ A Power BI dashboard was developed to provide an interactive view of:
 ```text
 Customer-Churn-Analysis/
 │
-├── data/
+├── Raw data/
 │   └── customer_churn.csv
 │
 ├── notebook/
@@ -93,10 +93,11 @@ Customer-Churn-Analysis/
 │
 ├── images/
 │   └── dashboard.png
+|
+├── Dashboard/
+│   └── customer_churn_dashboard
 │
-├── README.md
-│
-└── requirements.txt
+└── README.md
 ```
 
 ---
